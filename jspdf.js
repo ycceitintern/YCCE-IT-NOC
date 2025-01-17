@@ -342,11 +342,11 @@ var date = "From "+resumeData.duration.start +" to "+resumeData.duration.start
   doc.text("Email: hod_it@ycce.edu",xx+8,yyy+45);
 
   doc.setFont('times new roman','bold');
-  doc.text("Dr. Gauri Dhopavkar",xx+135,yyy+25);
+  doc.text("Dr. Rakhi D. Wajgi",xx+135,yyy+25);
   doc.text("Dean",xx+148,yyy+30);
   doc.setFont('times new roman','');
   doc.text("(Training, Placement & Career Guidance)",xx+120,yyy+35);
-  doc.text("Mobile : 9822087970",xx+138,yyy+40);
+  doc.text("Mobile : 9970238062",xx+138,yyy+40);
   doc.text("Email : dean_tp@ycce.edu",xx+131,yyy+45);
 
 
